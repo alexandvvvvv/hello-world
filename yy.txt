@@ -1,0 +1,20 @@
+{
+  "Operation": "Start",
+  "Steps": [
+    {
+      "StepNumber": 1,
+      "SolverName": "Python",
+      "SolverParams": "\"\""
+    },
+    {
+      "StepNumber": 2,
+      "SolverName": "Python",
+      "SolverParams": "\"\""
+    }
+  ],
+  "Data": "UEsDBBQAAAAIAFuaPVAvZW3gVgAAAHAAAAAHAAAAS01VLnR4dCWMywmAMBQE74I9WKofEETBViQaDKhJC7MdueLpLbOzTyORS0tdUdQ6J24Nmojq1BPYGpI6CvnTOH0NeUxXj7Ib9z8hNg4XO9m/kvc3m6WgmWD10PwCUEsBAj8AFAAAAAgAW5o9UC9lbeBWAAAAcAAAAAcAJAAAAAAAAAAgCAAAAAAAAEtNVS50eHQKACAAAAAAAAEAGACQM7zMv9bVAbHqYUpjBtYBdJNRXb3W1QFQSwUGAAAAAAEAAQBZAAAAewAAAAAA",
+  "OwnerName": "GHI",
+  "TaskId": "1",
+  "Timestamp": "2020-04-10T15:57:41",
+  "Priority": "Low"
+}
